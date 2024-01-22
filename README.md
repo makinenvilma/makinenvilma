@@ -3,7 +3,7 @@
 
 - 📝 I’m currently studying at **Tampere University of Applied Sciences**
 
-- 🌱 I’m currently learning **website development**
+- 🌱 I’m currently learning **Website Development**
 
 - 📫 How to reach me **vilma.makinen@tuni.fi**
 
