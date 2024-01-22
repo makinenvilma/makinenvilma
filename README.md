@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Website Development**
 
-- 📫 How to reach me **vilma.makinen@tuni.fi**
+- 📫 How to reach me: **vilma.makinen@tuni.fi**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
