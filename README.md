@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🙌, I'm Vilma Mäkinen</h1>
 <h3 align="center">A passionate full-Stack developer from Finland</h3>
 
-- 📝 I’m currently studying at [https://www.tuni.fi/](https://www.tuni.fi/)
+- 📝 I’m currently studying at Tampere University of Applied Sciences
 
 - 🌱 I’m currently learning **website development**
 
