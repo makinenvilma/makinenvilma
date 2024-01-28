@@ -3,7 +3,9 @@
 
 - 📝 I’m currently studying at **Tampere University of Applied Sciences**
 
-- 🌱 I’m working on **Website Development Project** using **JavaScript, CSS, Pug and PostgreSQL**
+- 💻 I’m currently working on **Website Development Project** using **JavaScript, CSS, Pug and PostgreSQL**
+
+- 🌱 I’m currently learning **Website Development** using **PyFlask** and **React**
 
 - 📫 How to reach me: **vilma.makinen@tuni.fi**
 
