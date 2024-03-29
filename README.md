@@ -5,7 +5,7 @@
 
 - 💻 I’m currently working on **Website Development Project** using **JavaScript**, **CSS**, **Pug** and **PostgreSQL**
 
-- 🌱 I’m currently learning **Website Development** using **PyFlask** and **React**
+- 🌱 I’m currently making **a Portfolio Website** using **JavaScript**, **HTML** and **CSS**
 
 - 📫 How to reach me: **vilma.makinen@tuni.fi**
 
