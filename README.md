@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vilma-mäkinen-71027424b" target="blank"><img align="center" src="https://thevinedc.com/wp-content/uploads/2015/02/linkedin-logo-white.png" alt="vilma-mäkinen-71027424b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vilma-mäkinen-71027424b" target="blank"><img align="center" src="https://thevinedc.com/wp-content/uploads/2015/02/linkedin-logo-white.png" alt="vilma-mäkinen-71027424b" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
