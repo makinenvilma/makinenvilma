@@ -1,4 +1,4 @@
-<h1 align="center">Hi 🙌, I'm Vilma Mäkinen</h1>
+<h1 align="center">Hi 👋, I'm Vilma Mäkinen</h1>
 <h3 align="center">A Passionate Full-Stack Developer from Finland</h3>
 
 - 📝 I’m currently studying at **Tampere University of Applied Sciences**
