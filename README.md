@@ -3,7 +3,7 @@
 
 - 📝 I’m currently studying at **Tampere University of Applied Sciences**
 
-- 💻 I’m currently working on **a Website Development Project** using **JavaScript**, **CSS**, **Pug** and **PostgreSQL**
+- 💻 I’m currently working on **a Development Project** using **JavaScript**, **CSS**, **HTML**, **Python** and **PostgreSQL**
 
 - 🌱 I’m currently making **a Portfolio Website** using **JavaScript**, **HTML** and **CSS**
 
